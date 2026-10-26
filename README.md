@@ -1,16 +1,31 @@
-## Hi there 👋
+# nanapaknanapak-huemirit
 
-<!--
-**nanapaknanapak-huemirit/nanapaknanapak-huemirit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Small, friendly learning projects for children and beginners.
 
-Here are some ideas to get you started:
+## Top repositories
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [basic-programming-learning-phase-1](https://github.com/nanapaknanapak-huemirit/basic-programming-learning-phase-1)
+
+A beginner-friendly Python curriculum — plus a **12-week, color-coded piano course for children ages 4–6**.
+
+[Piano web edition](https://nanapaknanapak-huemirit.github.io/basic-programming-learning-phase-1/piano-curriculum/) · [Printable pack](https://nanapaknanapak-huemirit.github.io/basic-programming-learning-phase-1/piano-curriculum/printables/piano-printables.html) · [Piano source](https://github.com/nanapaknanapak-huemirit/basic-programming-learning-phase-1/tree/main/piano-curriculum)
+
+<a href="https://nanapaknanapak-huemirit.github.io/basic-programming-learning-phase-1/piano-curriculum/">
+  <img src="piano-qr.svg" width="150" alt="QR code linking to the Little Rainbows Piano web edition">
+</a>
+
+### [css-color-challenges](https://github.com/nanapaknanapak-huemirit/css-color-challenges)
+
+Progressive CSS color challenges — learn CSS through colors with a live editor, target previews, and automatic checking.
+
+### [brain-garden-kids](https://github.com/nanapaknanapak-huemirit/brain-garden-kids)
+
+Educational puzzle game for kids where solving puzzles grows a virtual garden.
+
+### [learn-numbers-kids](https://github.com/nanapaknanapak-huemirit/learn-numbers-kids)
+
+Educational web app for children to learn numbers 1–10, addition, and subtraction with audio in 9 languages.
+
+---
+
+[All repositories](https://github.com/nanapaknanapak-huemirit?tab=repositories)
