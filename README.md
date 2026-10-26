@@ -4,11 +4,11 @@ Small, friendly learning projects for children and beginners.
 
 ## Top repositories
 
-### [basic-programming-learning-phase-1](https://github.com/nanapaknanapak-huemirit/basic-programming-learning-phase-1)
+### [basic-programming-learning-phase-1](https://nanapaknanapak-huemirit.github.io/basic-programming-learning-phase-1/piano-curriculum/)
 
 A beginner-friendly Python curriculum — plus a **12-week, color-coded piano course for children ages 4–6**.
 
-[Piano web edition](https://nanapaknanapak-huemirit.github.io/basic-programming-learning-phase-1/piano-curriculum/) · [Printable pack](https://nanapaknanapak-huemirit.github.io/basic-programming-learning-phase-1/piano-curriculum/printables/piano-printables.html) · [Piano source](https://github.com/nanapaknanapak-huemirit/basic-programming-learning-phase-1/tree/main/piano-curriculum)
+**[Open the piano web edition](https://nanapaknanapak-huemirit.github.io/basic-programming-learning-phase-1/piano-curriculum/)** · [Printable pack](https://nanapaknanapak-huemirit.github.io/basic-programming-learning-phase-1/piano-curriculum/printables/piano-printables.html) · [Repository](https://github.com/nanapaknanapak-huemirit/basic-programming-learning-phase-1) · [Piano source](https://github.com/nanapaknanapak-huemirit/basic-programming-learning-phase-1/tree/main/piano-curriculum)
 
 <a href="https://nanapaknanapak-huemirit.github.io/basic-programming-learning-phase-1/piano-curriculum/">
   <img src="piano-qr.svg" width="150" alt="QR code linking to the Little Rainbows Piano web edition">
